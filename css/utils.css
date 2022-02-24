@@ -40,9 +40,13 @@ table {
     text-align: center;
   }
 
+  .transfer a{
+    color:rgb(157, 179, 223) ;
+  }
+
   .transfer a:visited{
       color: rgb(157, 179, 223);
-      color: #a4f4fe
+      color: #a4f4fe;
     }
 
     .transfer a:hover{
