@@ -1,0 +1,53 @@
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+hr{
+    border: 1px solid white;
+    width:50%;
+    text-align:left;
+    margin-bottom: 40px;
+    margin-top: -20px;
+    margin-left: 30px;
+}
+
+table, th, td{
+border: 2px solid rgb(102, 191, 233);
+padding: 15px;
+border-collapse: collapse;
+margin-left: 32px ;
+}
+
+table {
+    /* border-collapse: collapse; */
+    font-family: 'Roboto', sans-serif;
+    width: 50%;
+  }
+
+
+  tr{
+    font-family: 'Roboto', sans-serif;
+    color: aqua;
+    font-size: 18px;
+  }
+
+  td {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: center;
+  }
+
+  .transfer a:visited{
+      color: rgb(157, 179, 223);
+      color: #a4f4fe
+    }
+
+    .transfer a:hover{
+        color: yellow;
+    
+    }
+
+
